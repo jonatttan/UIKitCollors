@@ -1,0 +1,6 @@
+framework module UIKitCollors {
+  umbrella header "UIKitCollors-umbrella.h"
+
+  export *
+  module * { export * }
+}

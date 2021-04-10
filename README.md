@@ -1,6 +1,6 @@
 # UIKitCollors
 
-[![CI Status](https://img.shields.io/travis/Jonattan/UIKitCollors.svg?style=flat)](https://travis-ci.org/Jonattan/UIKitCollors)
+[![CI Status](https://img.shields.io/travis/jonatttan/UIKitCollors.svg?style=flat)](https://travis-ci.org/jonatttan/UIKitCollors)
 [![Version](https://img.shields.io/cocoapods/v/UIKitCollors.svg?style=flat)](https://cocoapods.org/pods/UIKitCollors)
 [![License](https://img.shields.io/cocoapods/l/UIKitCollors.svg?style=flat)](https://cocoapods.org/pods/UIKitCollors)
 [![Platform](https://img.shields.io/cocoapods/p/UIKitCollors.svg?style=flat)](https://cocoapods.org/pods/UIKitCollors)

@@ -1,0 +1,6 @@
+framework module Pods_UIKitCollors_Example {
+  umbrella header "Pods-UIKitCollors_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
