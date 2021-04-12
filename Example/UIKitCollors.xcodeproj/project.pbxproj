@@ -103,7 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				89F1E90A26212A2B000C2A42 /* Controller */,
-				89F1E90B26212AB5000C2A42 /* VielModel */,
+				89F1E90B26212AB5000C2A42 /* ViewModel */,
 				89F1E90C26212AC1000C2A42 /* View */,
 				89F1E90D26212ACA000C2A42 /* Model */,
 				607FACDC1AFB9204008FA782 /* Images.xcassets */,
@@ -156,11 +156,11 @@
 			name = Controller;
 			sourceTree = "<group>";
 		};
-		89F1E90B26212AB5000C2A42 /* VielModel */ = {
+		89F1E90B26212AB5000C2A42 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = VielModel;
+			name = ViewModel;
 			sourceTree = "<group>";
 		};
 		89F1E90C26212AC1000C2A42 /* View */ = {
